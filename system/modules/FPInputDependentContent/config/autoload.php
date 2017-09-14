@@ -13,5 +13,5 @@
  * Register the classes
  */
 if (class_exists('NamespaceClassLoader')) {
-    NamespaceClassLoader::add('FP\InputDependentContent', 'system/modules/FPInputDependentContent/classes');
+    NamespaceClassLoader::add('FelixPfeiffer\InputDependentContent', 'system/modules/FPInputDependentContent/classes');
 }

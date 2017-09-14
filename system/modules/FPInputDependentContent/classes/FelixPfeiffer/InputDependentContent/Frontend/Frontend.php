@@ -6,7 +6,7 @@
  * Time: 11:29
  */
 
-namespace FP\InputDependentContent\Frontend;
+namespace FelixPfeiffer\InputDependentContent\Frontend;
 
 
 use Haste\Input\Input;

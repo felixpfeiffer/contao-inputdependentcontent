@@ -6,7 +6,7 @@
  * Time: 11:29
  */
 
-namespace FP\InputDependentContent\Backend;
+namespace FelixPfeiffer\InputDependentContent\Backend;
 
 
 class Backend
