@@ -11,5 +11,5 @@
  * @copyright 2015 Felix Pfeiffer : Neue Medien
  */
 
-$GLOBALS['TL_HOOKS']['getContentElement']['FPInputDependentContent'] = array('FP\InputDependentContent\Frontend\Frontend','checkElement');
-$GLOBALS['TL_HOOKS']['getFrontendModule']['FPInputDependentContent'] = array('FP\InputDependentContent\Frontend\Frontend','checkElement');
+$GLOBALS['TL_HOOKS']['getContentElement']['FPInputDependentContent'] = array('FelixPfeiffer\InputDependentContent\Frontend\Frontend','checkElement');
+$GLOBALS['TL_HOOKS']['getFrontendModule']['FPInputDependentContent'] = array('FelixPfeiffer\InputDependentContent\Frontend\Frontend','checkElement');
